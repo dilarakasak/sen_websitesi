@@ -11,12 +11,13 @@ function İletisim() {
         </div>
       <br/><br/><br/><br/>
 
-      <div className='flex'>
-        <div className='secenek'>
-          <a className='secenek_yazi'>İLETİŞİM</a>
-        </div>
+      <div className='alan5'>
+        <div className='flex'>
+          <div className='secenek'>
+            <a className='secenek_yazi'>İLETİŞİM</a>
+          </div>
 
-        <div className='aciklama'>
+          <div className='aciklama'>
             <a className='baslik2'>BİZİMLE İLETİŞİME GEÇİN</a>
             <br/><br/><br/><br/>
             <a>Mahmutbey Mah. Taşocağıyolu Cad. Balance Güneşli, No.: 19/6 Güneşli/İstanbul</a>
@@ -28,6 +29,7 @@ function İletisim() {
             <button className='arama_btn'>Gönder</button>
             <br/><br/><br/><br/><br/>
             <a>ATAŞEHİR</a>
+          </div>
         </div>
       </div>
     </div>

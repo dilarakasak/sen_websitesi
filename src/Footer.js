@@ -3,7 +3,9 @@ import './Footer.css'
 
 function Footer() {
   return (
-    <img className='saga_yasla' src='img/sayfasonu.jpg'></img>
+    <div className='footer'>
+      <img className='saga_yasla' src='img/sayfasonu.jpg'></img>
+    </div>
   )
 }
 

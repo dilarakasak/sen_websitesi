@@ -1,19 +1,31 @@
 .kurumsal_arkaplan {
     background-image: url('kurumsal.jpg');
     background-size: cover;
-    width: 1350px;
+    width: 1345px;
     height: 395px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .biz {
-    width: 1350px;
+    width: 1345px;
     height: 150px;
     background-color: rgb(0, 0, 82);
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .biz_yazi {
     font-size: 40px;
     color: white;
+}
+
+.alan1 {
+    width: 1300px;
+    height: 360px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .s_bosluk {

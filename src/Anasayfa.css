@@ -72,10 +72,40 @@
     background-color: #406ec2;
 }
 
+.rakamlarlasen {
+    width: 1300px;
+    height: 350px;
+    background-color: white;
+}
+
 .sektorler {
     background-color: rgb(156, 155, 155);
     width: 1300px;
     height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.haberler {
+    width: 1300px;
+    height: 450px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.toplumsal {
+    width: 1300px;
+    height: 250px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bilgi {
+    width: 1300px;
+    height: 150px;
+    background-color: white;
     margin-left: auto;
     margin-right: auto;
 }
@@ -107,6 +137,8 @@
 .kariyer_a {
     background-image: url('kariyer_a.jpg');
     background-size: cover;
+    width: 1300px;
+    height: 210px;
 }
 
 .resim1_arkaplan {
@@ -174,4 +206,15 @@
     color: white;
     font-size: 20px;
     text-align: center;
+}
+
+.sayfa_sonu {
+    width: 1300px;
+    height: 150px;
+    background-color: white;
+}
+
+.baslik {
+    width: 1300px;
+    height: 35px;
 }
