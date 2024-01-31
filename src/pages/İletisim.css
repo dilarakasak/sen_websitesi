@@ -1,7 +1,13 @@
 .iletisim_arkaplan {
     background-image: url('kurumsal.jpg');
     background-size: cover;
+    width: 1350px;
     height: 395px;
+}
+
+.img_center {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .baslik {
@@ -10,6 +16,7 @@
 }
 
 .iletisim {
+    width: 1350px;
     height: 150px;
     background-color: #1A428A;
 }

@@ -4,7 +4,7 @@ import './İletisim.css'
 function İletisim() {
   return (
     <div>
-        <div className='iletisim_arkaplan'></div>
+        <div className='iletisim_arkaplan img_center'></div>
         <div className='iletisim'>
             <br/><br/>
             <a className='baslik solBosluk'>İLETİŞİM</a>

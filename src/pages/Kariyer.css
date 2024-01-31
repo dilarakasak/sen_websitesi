@@ -1,7 +1,13 @@
 .kariyer_arkaplan {
     background-image: url('kryr.jpg');
     background-size: cover;
+    width: 1350px;
     height: 395px;
+}
+
+.img_center {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .baslik {
@@ -10,6 +16,7 @@
 }
 
 .kariyer {
+    width: 1350px;
     height: 150px;
     background-color: #1A428A;
 }

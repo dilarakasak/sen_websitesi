@@ -4,7 +4,7 @@ import './Kariyer.css'
 function Kariyer() {
   return (
     <div>
-      <div className='kariyer_arkaplan'></div>
+      <div className='kariyer_arkaplan img_center'></div>
       <div className='kariyer'>
         <br/><br/>
         <a className='baslik sbosluk'>KARİYER</a>

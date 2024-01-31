@@ -4,7 +4,7 @@ import './Tfayda.css'
 function Tfayda() {
   return (
     <div>
-      <div className='tfayda_arkaplan'></div>
+      <div className='tfayda_arkaplan img_center'></div>
       <div className='toplumsalfayda'>
         <br/><br/>
         <a className='baslik solbosluk'>TOPLUMSAL FAYDA</a>

@@ -4,7 +4,7 @@ import './Sektorler.css'
 function Sektorler() {
   return (
     <div>
-      <div className='sektorler_arkaplan'></div>
+      <div className='sektorler_arkaplan img_center'></div>
       <div className='gayrimenkul'>
         <br/><br/>
         <a className='baslik bosluk'>GAYRİMENKUL</a>

@@ -4,7 +4,7 @@ import './Kurumsal.css'
 function Kurumsal() {
   return (
     <div>
-      <div className='kurumsal_arkaplan'></div>
+      <div className='kurumsal_arkaplan img_center'></div>
       <div className='biz'>
         <br/><br/>
         <a className='biz_yazi s_bosluk'>BİZ</a>

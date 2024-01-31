@@ -1,10 +1,12 @@
 .kurumsal_arkaplan {
     background-image: url('kurumsal.jpg');
     background-size: cover;
+    width: 1350px;
     height: 395px;
 }
 
 .biz {
+    width: 1350px;
     height: 150px;
     background-color: rgb(0, 0, 82);
 }

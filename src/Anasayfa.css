@@ -11,6 +11,7 @@
 }
 
 .resim1 {
+    width: 1300px;
     height: 395px;
     margin: 0px auto;
 }
@@ -73,6 +74,7 @@
 
 .sektorler {
     background-color: rgb(156, 155, 155);
+    width: 1300px;
     height: 350px;
     margin-left: auto;
     margin-right: auto;

@@ -4,7 +4,7 @@ import './Anasayfa.css'
 function Anasayfa() {
   return (
     <div className='anasayfa'>
-        <div className='resim1_arkaplan resim1'></div>
+        <div className='resim1_arkaplan resim1 img_center'></div>
 
         <h2 className='center'>RAKAMLARLA SEN</h2>
         <div className='yanyana kutu_bosluk'>
@@ -50,14 +50,14 @@ function Anasayfa() {
         </div>
 
         <h2 className='center'>BASIN & HABERLER</h2>
-        <div className='haberler_arkaplan resim1'>
+        <div className='haberler_arkaplan resim1 img_center'>
             <div className='haber_seffafdiv img_center'>
                 <a className='haber_yazi '>SEN'DEN NE HABER?</a> <br/>
                 <a className='haber_yazi2'>Her geçen gün büyüyen ve gelişen Sen Grup Ailesi'nin dijital ve konvansiyonel medyaya yansıyan ve basında sıklıkla yer alan haberlerini takip etmek için tıklayınız.</a>
             </div>
         </div>
 
-        <div className='kariyer_a'>
+        <div className='kariyer_a img_center'>
             <h2 className='center'>KARİYER</h2>
             <a className='center sol_bosluk'>Daha iyi bir toplum için çalışanlarımızı güçlendiriyor ve destekliyoruz. Siz de ekibimize katılın!</a> <br/><br/>
             <a className='center sol_bosluk'>Faaliyet gösterdiğimiz tüm coğrafyalarda farklı sektörler, departmanlar ve iş fırsatları hakkında daha fazla bilgi edinin.</a> <br/><br/>
