@@ -1,0 +1,40 @@
+.tfayda_arkaplan {
+    background-image: url('tfayda.jpg');
+    background-size: cover;
+    height: 395px;
+}
+
+.baslik {
+    color: white;
+    font-size: 40px;
+}
+
+.toplumsalfayda {
+    height: 150px;
+    background-color: #609675;
+}
+
+.flex {
+    display: flex;
+}
+
+.secenek {
+    width: 450px;
+}
+
+.secenek_yazi {
+    margin-left: 72px;
+}
+
+.solbosluk {
+    margin-left: 500px;
+}
+
+.aciklama {
+    width: 500px;
+    margin-left: 100px;
+}
+
+.baslik2 {
+    font-size: 30px;
+}

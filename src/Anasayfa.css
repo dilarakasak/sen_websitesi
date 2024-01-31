@@ -1,0 +1,175 @@
+.anasayfa {
+    text-align: center;
+}
+
+.yanyana {
+    display: flex;
+}
+
+.altalta {
+    display: block;
+}
+
+.resim1 {
+    height: 395px;
+    margin: 0px auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.kutu_bosluk {
+    margin-left: 300px;
+}
+
+.kutu1 {
+    width: 127px;
+    height: 350px;
+    background-color: #1A428A;
+}
+
+.kutu_yazi {
+    color: white;
+    font-size: large;
+}
+
+.yuzde {
+    color: white;
+    font-size: x-large;
+    margin-left: 0px;
+}
+
+.kutu2 {
+    width: 236px;
+    height: 120px;
+    background-color: #28509b;
+    margin-top: 90px;
+}
+
+.kutu3 {
+    width: 236px;
+    height: 100px;
+    background-color: #7e9cd3;
+}
+
+.kutu4 {
+    width: 235px;
+    height: 230px;
+    background-color: #557cc4;
+}
+
+.kutu5 {
+    width: 235px;
+    height: 100px;
+    background-color: #28509b;
+}
+
+.kutu6 {
+    width: 235px;
+    height: 170px;
+    background-color: #406ec2;
+}
+
+.sektorler {
+    background-color: rgb(156, 155, 155);
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sol_bosluk {
+    margin-left: 170px;
+}
+
+.arama {
+    width: 150px;
+    height: 29px;
+    flex-shrink: 0;
+    border-radius: 2px 0px 0px 2px;
+    border: 1px solid var(--youtube-border, #CCC);
+    background: #FFF;
+    box-shadow: 0px 1px 1px 0px #EEE inset;
+}
+
+.arama_btn {
+    height: 33px;
+    width: 60px;
+}
+
+.t_faydaresim {
+    width: 1250px;
+    height: 200px;
+}
+
+.kariyer_a {
+    background-image: url('kariyer_a.jpg');
+    background-size: cover;
+}
+
+.resim1_arkaplan {
+    background-image: url('resim1.jpg');
+    background-size: cover;
+}
+
+.haberler_arkaplan {
+    background-image: url('b_haber.jpg');
+    background-size: cover;
+}
+
+.sayfa_sonu {
+    background-color: rgb(156, 154, 154);
+    height: 75px;
+}
+
+.saga_yasla {
+    margin-top: 25px;
+    margin-left: 950px;
+    margin-bottom: 25px;
+}
+
+.kariyer_div {
+    height: 30px;
+    width: 250px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.seffaf_div {
+    height: 108px;
+    width: 437px;
+    opacity: 0.5;
+    background-color: rgb(139, 102, 102);
+}
+
+.seffaf_divyazi {
+    color: white;
+    font-size: x-large;
+    margin-top: 70px;
+}
+
+.haber_seffafdiv {
+    height: 134px;
+    opacity: 0.5;
+    background-color: #010e25;
+}
+
+.haber_yazi {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+.haber_yazi2 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}

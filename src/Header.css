@@ -1,0 +1,17 @@
+.yanyana {
+    display: flex;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+.yazi {
+    margin-top: 45px;
+}
+
+.arkaplan {
+    color: #000;
+    text-decoration: none;
+}

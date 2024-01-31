@@ -1,0 +1,40 @@
+.kariyer_arkaplan {
+    background-image: url('kryr.jpg');
+    background-size: cover;
+    height: 395px;
+}
+
+.baslik {
+    color: white;
+    font-size: 40px;
+}
+
+.kariyer {
+    height: 150px;
+    background-color: #1A428A;
+}
+
+.sbosluk {
+    margin-left: 600px;
+} 
+
+.flex {
+    display: flex;
+}
+
+.secenek {
+    width: 450px;
+}
+
+.secenek_yazi {
+    margin-left: 72px;
+}
+
+.aciklama {
+    width: 500px;
+    margin-left: 100px;
+}
+
+.baslik2 {
+    font-size: 30px;
+}

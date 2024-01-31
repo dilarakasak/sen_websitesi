@@ -1,0 +1,55 @@
+.iletisim_arkaplan {
+    background-image: url('kurumsal.jpg');
+    background-size: cover;
+    height: 395px;
+}
+
+.baslik {
+    color: white;
+    font-size: 40px;
+}
+
+.iletisim {
+    height: 150px;
+    background-color: #1A428A;
+}
+
+.solBosluk {
+    margin-left: 600px;
+}
+
+.flex {
+    display: flex;
+}
+
+.secenek {
+    width: 450px;
+}
+
+.secenek_yazi {
+    margin-left: 72px;
+}
+
+.aciklama {
+    width: 500px;
+    margin-left: 100px;
+}
+
+.baslik2 {
+    font-size: 30px;
+}
+
+.arama {
+    width: 150px;
+    height: 29px;
+    flex-shrink: 0;
+    border-radius: 2px 0px 0px 2px;
+    border: 1px solid var(--youtube-border, #CCC);
+    background: #FFF;
+    box-shadow: 0px 1px 1px 0px #EEE inset;
+}
+
+.arama_btn {
+    height: 33px;
+    width: 60px;
+}

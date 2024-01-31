@@ -1,0 +1,36 @@
+.sektorler_arkaplan {
+    background-image: url('sektorler.jpg');
+    background-size: cover;
+    height: 395px;
+}
+
+.baslik {
+    color: white;
+    font-size: 40px;
+}
+
+.gayrimenkul {
+    height: 150px;
+    background-color: #609675;
+}
+
+.bosluk {
+    margin-left: 530px;
+}
+
+.flex {
+    display: flex;
+}
+
+.secenek {
+    width: 450px;
+}
+
+.secenek_yazi {
+    margin-left: 72px;
+}
+
+.aciklama {
+    width: 500px;
+    margin-left: 100px;
+}
